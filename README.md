@@ -40,15 +40,15 @@ Here you'll find solutions to 30 beginner-friendly but concept-rich Python probl
 
 I’m **Naman Parashar**, a B.Tech CSE student, on a focused mission to become an AI Engineer.
 This repo is part of my daily 8–10 hour coding routine.  
-Follow my journey on [LinkedIn](https://linkedin.com/) and watch me build every day.
+Follow my journey on [LinkedIn](https://www.linkedin.com/in/naman-parashar-90696a234/) and watch me build every day.
 
 ---
 
 ## 🔗 Let’s Connect
 
-- 💼 LinkedIn: [Your LinkedIn URL here]
+- 💼 LinkedIn: [https://www.linkedin.com/in/naman-parashar-90696a234/]
 - 🧠 Mentor: [ChatGPT, OpenAI]
-- 💻 GitHub: [Your GitHub username]
+- 💻 GitHub: [np078]
 
 ---
 
