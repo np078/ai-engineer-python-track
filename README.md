@@ -41,8 +41,19 @@ Here you'll find solutions to 30 beginner-friendly but concept-rich Python probl
 | 18  | Within 100 of 1000 or 2000                       | ✅ [`q18_near_1000_2000.py`](Q11_Q20/q18_near_1000_2000.py) |
 | 19  | Sum of 3 numbers, triple if all equal            | ✅ [`q19_sum_three.py`](Q11_Q20/q19_sum_three.py)   |
 | 20  | Add 'Is' at the beginning if not present         | ✅ [`q20_add_is.py`](Q11_Q20/q20_add_is.py)         |
+| 21  | Check if number is even or odd                         | [`q21_even_or_odd.py`](Q21_Q30/q21_even_or_odd.py) |
+| 22  | Count number 4s in a list                              | [`q22_count_4.py`](Q21_Q30/q22_count_4.py)         |
+| 23  | Repeat first 2 characters of a string `n` times        | [`q23_repeat_prefix.py`](Q21_Q30/q23_repeat_prefix.py) |
+| 24  | Check if a letter is a vowel                           | [`q24_is_vowel.py`](Q21_Q30/q24_is_vowel.py)       |
+| 25  | Check if value is present in a list                    | [`q25_value_in_group.py`](Q21_Q30/q25_value_in_group.py) |
+| 26  | Print histogram of numbers using `*`                   | [`q26_histogram.py`](Q21_Q30/q26_histogram.py)     |
+| 27  | Concatenate all elements in a list into a string       | [`q27_concatenate_list.py`](Q21_Q30/q27_concatenate_list.py) |
+| 28  | Print even numbers and stop after 237                  | [`q28_even_until_237.py`](Q21_Q30/q28_even_until_237.py) |
+| 29  | Print colors from list 1 not in list 2                 | [`q29_color_difference.py`](Q21_Q30/q29_color_difference.py) |
+| 30  | Calculate triangle area using base and height          | [`q30_triangle_area.py`](Q21_Q30/q30_triangle_area.py) |
 
-> More to come... (Q21–Q30 in progress)
+
+> More to come...
 
 ---
 
