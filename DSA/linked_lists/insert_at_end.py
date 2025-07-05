@@ -26,6 +26,7 @@ class LinkedList:       # A class that tracks the head of the linked list
       current.next = new_node
       
 
+      
 
 ll= LinkedList()
 ll.head = Node(10)
