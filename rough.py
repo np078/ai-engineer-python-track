@@ -1,7 +1,4 @@
-s = []
-s.append('ww.india.com')
-s.append('ww.china.com')
-s.append('ww.world.com')
-s.append('ww.africa.com')
-print(s.pop())
-print(s)
+countries = ["USA", "India", "USA", "China", "Africa"]
+print(countries)
+countries_set = set(["USA", "India", "USA", "China", "Africa"])
+print(countries_set)
